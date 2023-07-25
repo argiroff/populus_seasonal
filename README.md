@@ -11,3 +11,7 @@ William A. Argiroff<sup>1</sup>, Alyssa A. Carrell<sup>1</sup>, Dawn M. Klingema
 *In review.*
 
 Sequence data are available in the Sequence Read Archive (Project Accesion No. [PRJNA993999](https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA993999))
+
+Any additional raw data, as well as QIIME2 ASV and taxonomy QZAs, are included in this repository.
+
+All code for statistical analyses and figure generation is contained in `analysis.Rmd` within the `seasonal_Rproject` directory.
