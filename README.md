@@ -8,3 +8,6 @@ William A. Argiroff<sup>1</sup>, Alyssa A. Carrell<sup>1</sup>, Dawn M. Klingema
 
 <sup>3</sup>Department of Microbiology, University of Tennessee, Knoxville, Tennessee, USA
 
+*In review.*
+
+Sequence data are available in the Sequence Read Archive (Project Accesion No. [PRJNA993999](https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA993999))
