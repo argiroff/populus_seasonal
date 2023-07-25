@@ -1,10 +1,10 @@
 # Data and code for: Seasonality and longer-term development shape temporal patterns in the *Populus* microbiome
 
-William A. Argiroff1, Alyssa A. Carrell1, Dawn M. Klingeman1, Nicholas C. Dove1, Wellington Muchero1, Allison M. Veach2, Toni Wahl1, Steven J. Lebreux1, Amber B. Webb1, Kellie Peyton1, Christopher W. Schadt1,3, and Melissa A. Cregger1*
+William A. Argiroff<sup>1</sup>, Alyssa A. Carrell<sup>1</sup>, Dawn M. Klingeman<sup>1</sup>, Nicholas C. Dove<sup>1</sup>, Wellington Muchero<sup>1</sup>, Allison M. Veach<sup>2</sup>, Toni Wahl<sup>1</sup>, Steven J. Lebreux<sup>1</sup>, Amber B. Webb<sup>1</sup>, Kellie Peyton<sup>1</sup>, Christopher W. Schadt<sup>1,3</sup>, and Melissa A. Cregger<sup>1</sup>
 
-1Biosciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA
+<sup>1</sup>Biosciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA
 
-2Department of Integrative Biology, The University of Texas, San Antonio, Texas, USA
+<sup>2</sup>Department of Integrative Biology, The University of Texas, San Antonio, Texas, USA
 
-3Department of Microbiology, University of Tennessee, Knoxville, Tennessee, USA
+<sup>3</sup>Department of Microbiology, University of Tennessee, Knoxville, Tennessee, USA
 
