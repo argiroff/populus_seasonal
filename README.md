@@ -8,10 +8,10 @@ William A. Argiroff<sup>1</sup>, Alyssa A. Carrell<sup>1</sup>, Dawn M. Klingema
 
 <sup>3</sup>Department of Microbiology, University of Tennessee, Knoxville, Tennessee, USA
 
-*Submitted to mSystems.*
+*In revision at mSystems.*
 
 Sequence data are available in the Sequence Read Archive (Project Accesion No. [PRJNA993999](https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA993999))
 
 Any additional raw data, as well as QIIME2 ASV and taxonomy QZAs, are included in this repository.
 
-All code for statistical analyses and figure generation is contained in `analysis.Rmd` within the `seasonal_Rproject` directory.
+All code for statistical analyses and figure generation is contained in `analysis_revised.Rmd` within the `seasonal_Rproject` directory.
